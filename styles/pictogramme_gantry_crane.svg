@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-label="Gantry crane - portique de levage">
+
+  <title>Gantry crane - portique de levage</title>
+
+  <!-- Fond blanc -->
+  <rect x="32" y="32" width="448" height="448" rx="56" fill="#FFFFFF" stroke="#111111" stroke-width="10"/>
+
+  <!-- Poutre supérieure du portique -->
+  <rect x="112" y="126" width="288" height="38" rx="10" fill="#111111"/>
+
+  <!-- Treillis de la poutre -->
+  <path d="M132 164 L172 126 L212 164 L252 126 L292 164 L332 126 L372 164"
+        fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Jambes du portique -->
+  <path d="M142 164 L104 388" stroke="#111111" stroke-width="28" stroke-linecap="round"/>
+  <path d="M370 164 L408 388" stroke="#111111" stroke-width="28" stroke-linecap="round"/>
+
+  <!-- Renforts inclinés internes -->
+  <path d="M150 186 L212 388" stroke="#111111" stroke-width="16" stroke-linecap="round"/>
+  <path d="M362 186 L300 388" stroke="#111111" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Chariot de levage -->
+  <rect x="222" y="168" width="68" height="42" rx="10" fill="#111111"/>
+
+  <!-- Câble central -->
+  <path d="M256 210 V314" stroke="#111111" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- Crochet -->
+  <path d="M256 314
+           C222 314 222 366 256 366
+           C286 366 288 334 266 334"
+        fill="none" stroke="#111111" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Bases / roues du portique -->
+  <rect x="74" y="386" width="88" height="34" rx="10" fill="#111111"/>
+  <rect x="350" y="386" width="88" height="34" rx="10" fill="#111111"/>
+
+  <circle cx="96" cy="430" r="14" fill="#111111"/>
+  <circle cx="140" cy="430" r="14" fill="#111111"/>
+  <circle cx="372" cy="430" r="14" fill="#111111"/>
+  <circle cx="416" cy="430" r="14" fill="#111111"/>
+
+</svg>

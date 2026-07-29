@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-label="Pictogramme grue fond blanc">
+
+  <title>Pictogramme grue fond blanc</title>
+
+  <!-- Fond blanc -->
+  <rect x="32" y="32" width="448" height="448" rx="56" fill="#FFFFFF" stroke="#111111" stroke-width="10"/>
+
+  <!-- Mât principal -->
+  <rect x="150" y="140" width="34" height="240" rx="8" fill="#111111"/>
+
+  <!-- Treillis du mât -->
+  <path d="M153 160 L181 200 L153 240 L181 280 L153 320 L181 360"
+        fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M181 160 L153 200 L181 240 L153 280 L181 320 L153 360"
+        fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Flèche horizontale -->
+  <rect x="162" y="132" width="220" height="30" rx="8" fill="#111111"/>
+
+  <!-- Contre-flèche courte -->
+  <rect x="104" y="138" width="68" height="22" rx="7" fill="#111111"/>
+
+  <!-- Treillis de la flèche -->
+  <path d="M184 160 L220 132 L256 160 L292 132 L328 160 L364 132"
+        fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Cabine -->
+  <rect x="184" y="168" width="68" height="50" rx="10" fill="#111111"/>
+  <path d="M202 180 H236 V204 H202 Z" fill="#FFFFFF"/>
+
+  <!-- Câble -->
+  <path d="M354 162 V284" stroke="#111111" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- Crochet -->
+  <path d="M354 284
+           C326 284 326 326 354 326
+           C378 326 380 300 362 300"
+        fill="none" stroke="#111111" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Base -->
+  <rect x="112" y="378" width="110" height="34" rx="10" fill="#111111"/>
+  <rect x="128" y="412" width="78" height="18" rx="8" fill="#111111"/>
+
+</svg>
